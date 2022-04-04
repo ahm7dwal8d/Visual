@@ -336,7 +336,7 @@
 }
 @media (max-width: 560px) {
     .portfolio ul li {
-        padding: 2px;
+        padding: 1px;
         margin: 0 2px;
     }
 }
